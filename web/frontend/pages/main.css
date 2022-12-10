@@ -1,0 +1,59 @@
+.demo-option-custom{
+    border: 1px solid #ccc;
+}
+
+.none{
+    display: none;
+}
+.btn{
+    width: 35px;
+    height: 30px  !important;
+    margin: 0 !important;
+    opacity: 0.6 !important;
+    border: 1px solid #c1c6c9 !important;
+
+}
+
+.demo-toolbar-custom{
+    background-color: rgba(250, 251, 251, 1) !important;
+    border: 1px solid #c9cccf !important;
+    margin: 0 !important;
+}
+.mg-icon{
+    margin-right: 8px  !important;
+}
+.conten{
+    border: 1px solid #c9cccf !important;
+    height: 150px !important;
+    overflow: hidden !important
+}
+.show-html{
+    width: 35px;
+    height: 30px  !important;
+    opacity: 0.6 !important;
+    border: 1px solid #c1c6c9 !important;
+    text-align: center;
+    line-height: 25px;
+    margin-left: 90%;
+    background-color: #fff !important;
+}
+.input-html{
+    width: 100%;
+    height: 331px;
+}
+
+.rUXT {
+    color: #1a0dab;
+    font-size: 1.125rem;
+    line-height: 1.3125rem;
+    margin-bottom: 0.125rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.XNE1s {
+    color: #006621;
+    line-height: 1rem;
+    margin-bottom: 0.125rem;
+}
